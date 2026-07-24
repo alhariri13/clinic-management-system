@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:project_11/patient/profile_screen.dart';
+import 'package:first_1_1/patient/profile_screen.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
